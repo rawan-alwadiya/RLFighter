@@ -21,4 +21,4 @@
 - *Reinforcement Learning*: Q-Learning, Deep Q-Networks (DQN)  
 - *Deep Neural Networks: AI-driven **gameplay strategy optimization*  
 - *Performance Analysis*: Win rate tracking, success rate of strategic moves  
-- *Game Environment Simulation*: Training agents through interactive game simulations  
+- *Game Environment Simulation*: Training agents through interactive game simulations   
